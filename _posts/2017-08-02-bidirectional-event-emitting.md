@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Паттерн event emitter для двунаправленного общения: примеры и антипримеры
+title: "Паттерн event emitter для двунаправленного общения: примеры и антипримеры"
 tags: [node.js, EventEmitter, architecture]
 ---
 
