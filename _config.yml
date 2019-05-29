@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Technical Blog
+title: Dmitry Menshikov - Personal and Technical Blog
 
 # Short description of your site
-description: About technologies and business in high-tech business
+description: About technologies and business in high-tech
 
 # --- Navigation bar options --- #
 
@@ -38,7 +38,11 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Dmitry
+  name: Dmitry Menshikov
+  email: "d.menshikov@gmail.com"
+  facebook: d.menshikov
+  github: woz
+  linkedin: dmenshikov
 
 # Select which links to show in the footer
 footer-links-active:
@@ -71,7 +75,7 @@ url-pretty: "dmenshikov.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "dmen18"
+disqus: "dmenshikov"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-100894491-1"
