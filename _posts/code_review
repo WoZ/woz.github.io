@@ -1,0 +1,16 @@
+1) Ошибки типов.
+
+```
+    constructor(config) {
+        if (typeof config.statusTimeout !== 'number' || config.statusTimeout <= 0) {
+            throw new InvalidConfigurationError('"config.statusTimeout" must be positive number');
+        }
+    }
+```
+
+```
+> typeof Number.POSITIVE_INFINITY === 'number' && Number.NEGATIVE_INFINITY >= 0
+true
+```
+
+2)
