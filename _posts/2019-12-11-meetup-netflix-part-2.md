@@ -295,7 +295,7 @@ tags: [netflix, culture, meetup, recruitment, freedom, responsibility, hr, salar
 
 **АК**: Да.
 
-> На этом вторую часть закончим. Последняя часть будет скоро!
+> [Продолжение беседы в части 3]({{ site.baseurl }}{% link _posts/2019-12-21-meetup-netflix-part-3.md %}).
 
 А чтобы не пропустить следующие части, подписывайся на мой авторский telegram канал
 [«Об IT без галстуков»](https://goo.gl/E3AFL1). На канале, с позиции CTO продуктовой компании, я делюсь своим
